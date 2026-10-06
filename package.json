@@ -1,0 +1,13 @@
+{
+  "name": "timer",
+  "version": "1.0.0",
+  "description": "终端计时器 — 记录多段计时，可导出记录",
+  "bin": {
+    "t": "cli.js"
+  },
+  "main": "cli.js",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  }
+}
